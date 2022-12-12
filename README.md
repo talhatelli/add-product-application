@@ -1,6 +1,7 @@
 # urun-ekleme
 
-<img width="1440" alt="Ekran Resmi 2022-12-12 13 37 07" src="https://user-images.githubusercontent.com/100022800/207025190-1a7bdc88-f67c-4ce1-9eae-cd0229b50d66.png">
+<img width="1182" alt="Ekran Resmi 2022-12-12 13 39 12" src="https://user-images.githubusercontent.com/100022800/207025995-77353a81-1801-47d6-b1ce-7006da42db59.png">
+
 
 > A Vue.js project
 
